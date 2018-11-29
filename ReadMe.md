@@ -1,6 +1,6 @@
 ##PornHub Video Downloader
 
-Less code, less work to mentain.
+Less code, less work to maintain.
 
 ![output](/ternimal.png "Title")
 
