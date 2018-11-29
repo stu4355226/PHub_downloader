@@ -4,7 +4,7 @@ Less code, less work to mentain.
 
 ![output](/ternimal.png "Title")
 
-Enviorment: Python3.7
+Environment: Python3.7
 
 Install
 ```
